@@ -1,2 +1,3 @@
-# ioro
-A frontent boilerplate for building admin applications
+# Ioro
+
+Quickly build beautiful applications.
